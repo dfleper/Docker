@@ -1,6 +1,7 @@
 # Installing Docker on Ubuntu or Linux Mint
 
-![GitHub watchers](https://img.shields.io/github/watchers/dfleper/Docker?label=Vistas&style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/dfleper/Docker?color=blue&label=Vistas&logoColor=blue&style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/dfleper/Docker?color=blue&label=%C3%BAltimo%20commit&logo=github&logoColor=white)
 
 ##### Installing Docker on Ubuntu 20.04 Focal or Linux Mint 20.3 Uma. 
 ##### Instalación de Docker en Ubuntu 20.04 Focal o Linux Mint 20.3 Uma.
